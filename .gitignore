@@ -1,0 +1,18 @@
+# Legacy code (preserved locally for reference)
+/_legacy/
+
+# Credentials & secrets
+user-password.cfg
+bot-settings.cfg
+tokens.json
+
+# Runtime / cache
+/apicache/
+/throttle.ctrl
+/logs/
+__pycache__/
+*.lwp
+
+# IDE
+.vscode/
+.idea/
