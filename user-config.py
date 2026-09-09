@@ -7,7 +7,7 @@ config.read('bot-settings.cfg')
 family = 'soyjak'
 mylang = 'en'
 
-usernames['soyjak']['en'] = 'Gem'
+usernames['soyjak']['en'] = 'GemBot'
 
 password_file = "user-password.cfg"
 
